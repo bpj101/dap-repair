@@ -16,7 +16,7 @@ router.post('/send',function(req,res) {
     service: 'gmail',
       auth: {
           user: 'bpj101@dameagnesproductions.com',
-          pass: 'sanDee@191'
+          pass: 'xxxxxxxx'
       }
     });
 
