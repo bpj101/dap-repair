@@ -1,0 +1,18 @@
+[
+  {
+    "name":"Hardware Repair",
+    "description":"Fusce dapibus, tellus ac cursus commodo, tortor",
+    "price_range":"$100 - $200"
+  },
+  {
+    "name":"Virus Removal",
+    "description":"Donec id elit non mi porta gravida at eget metus.",
+    "price_range":"$100 - $150"
+  },
+{
+    "name":"Tune Up",
+    "description":"Cras justo odio, dapibus ac facilisis in, egestas eget quam.",
+    "price_range":"$75 - $100"
+  }
+
+]

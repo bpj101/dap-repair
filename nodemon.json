@@ -1,0 +1,9 @@
+{
+  "verbose": false,
+  "watch": [
+    "app.js",
+    "public/*.*/*.*",
+    "routes/*.*",
+    "views/*.*"
+  ]
+}
